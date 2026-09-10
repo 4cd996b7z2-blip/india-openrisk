@@ -30,3 +30,4 @@ Add API credentials to `.env` only when a phase requires them.
 ## Project plan
 
 See [PROJECT.md](PROJECT.md).
+   - [`docs/risk-disclaimer.md`](docs/risk-disclaimer.md) — what this tool does and does not promise.
