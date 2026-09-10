@@ -23,17 +23,17 @@ It is a data-analysis and risk-modeling project first, not an AI-agent system. A
 
 ## Phases
 
-1. **Foundation** — environment, repository, project definition. ✅
-2. **Data architecture & sourcing** — choose sources; define schema across a wide ticker universe, not just index level.
-3. **Ingestion pipeline at scale** — partitioned Parquet storage, Polars/DuckDB-based pipeline, fact/dimension structure.
-4. **Exploratory data analysis at scale** — distribution, correlation, and sector-level analysis across the full dataset.
-5. **Feature engineering pipeline** — reusable, versioned features (volatility, momentum, lagged returns, cross-asset correlation).
-6. **Baseline models** — simple rules any real model must beat.
-7. **Risk model** — train, calibrate, and validate across the full dataset.
-8. **Rigorous backtesting & evaluation** — time-based validation, performance by sector/regime.
-9. **Analytics dashboard** — interactive, drill-down from index to sector to ticker level.
-10. **Automation & orchestration** — scheduled runs, data-quality monitoring, tests.
-11. **Optional AI narrative layer** — cited evidence + plain-English brief, as a finishing touch, not the core.
+0. **Foundation** — environment, repository, project definition. ✅
+1. **Data architecture & sourcing** — choose sources; define schema across a wide ticker universe, not just index level.
+2. **Ingestion pipeline at scale** — partitioned Parquet storage, Polars/DuckDB-based pipeline, fact/dimension structure.
+3. **Exploratory data analysis at scale** — distribution, correlation, and sector-level analysis across the full dataset.
+4. **Feature engineering pipeline** — reusable, versioned features (volatility, momentum, lagged returns, cross-asset correlation).
+5. **Baseline models** — simple rules any real model must beat.
+6. **Risk model** — train, calibrate, and validate across the full dataset.
+7. **Rigorous backtesting & evaluation** — time-based validation, performance by sector/regime.
+8. **Analytics dashboard** — interactive, drill-down from index to sector to ticker level.
+9. **Automation & orchestration** — scheduled runs, data-quality monitoring, tests.
+10. **Optional AI narrative layer** — cited evidence + plain-English brief, as a finishing touch, not the core.
 
 ## Before each phase is pushed to GitHub
 
