@@ -51,4 +51,5 @@ It is a data-analysis and risk-modeling project first, not an AI-agent system. A
 | 2026-08-20 | Predict risk levels, not prices. | More useful and more defensible. |
 | 2026-08-20 | Separate AI from the risk score. | Keep the forecast measurable and testable. |
 | 2026-08-20 | Push a reviewed release after every completed phase. | Maintain a clean, auditable project history. |
-| 2026-09-11 | Pivoted scope from AI-agent-led risk brief to data-analysis/big-data-led pipeline; AI narrative moved to optional final phase. | Better demonstrates data engineering and statistical rigor over LLM orchestration. |
+| 2026-09-11 | Pivoted scope from AI-agent-led risk brief to data-analysis/big-data-led pipeline; AI narrative moved to optional final phase. | Better demonstrates data engineering and statistical rigor over LLM orchestration. |\
+| 2026-09-11 | Use current constituent lists only (not point-in-time); document survivorship bias as a known limitation. | Faster to ship; can revisit later if needed. |
